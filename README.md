@@ -3,7 +3,7 @@
 Instagram Clone - Flutter App 📱✨
 A fully-functional Instagram clone built with Flutter, featuring a modern UI, real-time interactions, and essential social media functionalities.
 
-#🌟 Features
+#Features
 🔐 Authentication
 Secure email/password registration & login
 
