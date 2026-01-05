@@ -39,6 +39,4 @@ Notifications: Real-time updates for likes, comments, and follows
 
 🏷️ Hashtag and user tagging
 
-📍 Location tagging
-
 🔔 Push notifications
