@@ -18,7 +18,7 @@ Photo/Video Upload: Multi-media posting with filters and editing
 
 Feed: Infinite scroll with lazy loading
 
-Stories: 24-hour ephemeral content with viewer tracking
+Stories: 24-hour ephemeral content with viewer trackin
 
 Explore: Discover new content and users
 
