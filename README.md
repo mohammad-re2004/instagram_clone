@@ -14,7 +14,7 @@ Password reset functionality
 Session management with auto-login
 
 📸 Core Functionalities
-Photo/Video Upload: Multi-media posting with filters and editing
+Photo/Video Upload Multi-media posting with filters and editing
 
 Feed: Infinite scroll with lazy loading
 
