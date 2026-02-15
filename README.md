@@ -24,6 +24,7 @@ Explore: Discover new content and users
 
 Profile: Customizable user profiles with grid/ list views
 
+
 Direct Messaging: Real-time chat with image sharing
 
 Notifications: Real-time updates for likes, comments, and follows.
