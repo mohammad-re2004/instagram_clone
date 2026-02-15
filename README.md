@@ -11,7 +11,7 @@ Google OAuth integration
 
 Password reset functionality
 
-Session management with auto-login
+Session management with auto-login.
 
 📸 Core Functionalities
 Photo/Video Upload Multi-media posting with filters and editing
