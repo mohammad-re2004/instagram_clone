@@ -7,7 +7,7 @@ A fully-functional Instagram clone built with Flutter, featuring a modern UI, re
 🔐 Authentication
 Secure email/password registration & login
 
-Google OAuth integration
+Google OAuth integration.
 
 Password reset functionality.
 
