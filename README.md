@@ -9,7 +9,7 @@ Secure email/password registration & login
 
 Google OAuth integration.
 
-Password reset functionality.
+Password reset functionality
 
 Session management with auto-login
 
@@ -23,7 +23,6 @@ Stories: 24-hour ephemeral content with viewer trackin.
 Explore: Discover new content and users
 
 Profile: Customizable user profiles with grid/ list views
-
 
 Direct Messaging: Real-time chat with image sharing
 
