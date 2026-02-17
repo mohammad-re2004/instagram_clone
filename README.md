@@ -9,7 +9,6 @@ Secure email/password registration & login
 
 Google OAuth integration.
 
-
 Password reset functionality.
 
 Session management with auto-login
