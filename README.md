@@ -11,7 +11,6 @@ Google OAuth integration.
 
 Password reset functionality
 
-
 Session management with auto-login
 
 📸 Core Functionalities
